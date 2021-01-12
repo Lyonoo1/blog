@@ -1,4 +1,4 @@
-# blog
+# blog project
 
 本项目是由 ReactHooks+NextJS+egg.js 完成的。
 
